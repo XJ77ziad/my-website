@@ -1,0 +1,45 @@
+body{
+    color:white;
+    font-family: "Lalezar", system-ui;
+    font-weight: 400;
+}
+
+html{
+    background-color:black ;
+}
+
+p{
+    font-size: small;
+    text-align: right;
+    background-color:#3E3232;
+}
+
+h1 {
+    font-family: "Aref Ruqaa Ink", serif;
+    font-weight: 700;
+    text-align: center;
+    font-size: 70px;
+    margin: 20px 0px 20px 0px;
+}
+
+h2 {
+    text-align: right;
+    background-color:#3E3232;
+}
+
+li{
+    text-align: right;
+    direction: rtl;
+    margin-right: 20px;
+}
+
+img {
+    width: 30%;
+    margin-left: 35%;
+    height: 30%;
+    border: 1px solid white;
+}
+
+div{
+    background-color: #3E3232;
+}
